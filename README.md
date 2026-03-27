@@ -8,6 +8,9 @@ Get instant AI-powered answers about coverage, claims, exclusions, and more.
 ![InsureBot Demo] 
 
 
+
+
+
 ![Demo 1](Screenshot%2026-03-27%133030.png)
 
 
