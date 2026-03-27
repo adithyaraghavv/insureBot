@@ -5,7 +5,7 @@ Get instant AI-powered answers about coverage, claims, exclusions, and more.
 
 
 
-![InsureBot Demo](demo.png)
+![InsureBot Demo](Screenshot 2026-03-27 133256.png)
 
 
 
