@@ -6,9 +6,9 @@ Get instant AI-powered answers about coverage, claims, exclusions, and more.
 
 
 ![InsureBot Demo] 
-!https://github.com/adithyaraghavv/insureBot/blob/main/Screenshot%202026-03-27%20133030.png
-
+!Demo1https://github.com/adithyaraghavv/insureBot/blob/main/Screenshot%202026-03-27%20133030.png
 !Demo2https://github.com/adithyaraghavv/insureBot/blob/main/Screenshot%202026-03-27%20133256.png
+!Demo3https://github.com/adithyaraghavv/insureBot/blob/main/Screenshot%202026-03-27%20133310.png
 
 
 ---
